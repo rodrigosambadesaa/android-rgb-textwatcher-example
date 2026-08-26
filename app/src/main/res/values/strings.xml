@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RGB TextWatcher Example</string>
+    <string name="instructions">Introduzca intensidades RGB entre 0 y 255</string>
+    <string name="red">Rojo</string>
+    <string name="green">Verde</string>
+    <string name="blue">Azul</string>
+    <string name="color_preview">Vista previa del color</string>
+    <string name="color_value">R: %1$d · G: %2$d · B: %3$d · #%4$s</string>
+</resources>
